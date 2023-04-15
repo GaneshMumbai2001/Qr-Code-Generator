@@ -1,0 +1,21 @@
+#qr {
+    width: 200px;
+    height: 20px;
+}
+.my-button {
+    height: 40px;
+    width: 200px;
+    background-color: rgb(222, 117, 117);
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.my-button:hover {
+    background-color: red;
+    color: #fff;
+    transition: 1s;
+}
+body{
+    background: #dbea14;
+}
